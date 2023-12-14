@@ -1,0 +1,143 @@
+JavaScript:
+File Extensions: .js, .mjs
+
+Python:
+File Extensions: .py
+
+
+Java:
+File Extensions: .java
+
+C++:
+File Extensions: .cpp, .h
+
+C#:
+File Extensions: .cs
+
+HTML:
+File Extensions: .html, .htm
+
+CSS:
+File Extensions: .css
+
+TypeScript:
+File Extensions: .ts
+
+JSON:
+File Extensions: .json
+
+Markdown:
+File Extensions: .md
+
+PHP:
+File Extensions: .php
+
+Ruby:
+File Extensions: .rb
+
+Swift:
+File Extensions: .swift
+
+Go:
+File Extensions: .go
+
+SQL:
+File Extensions: .sql
+
+Rust:
+File Extensions: .rs
+
+Shell Script (Bash):
+File Extensions: .sh
+
+YAML:
+File Extensions: .yaml, .yml
+
+Dart:
+File Extensions: .dart
+
+Vue.js:
+File Extensions: .vue
+
+Kotlin:
+File Extensions: .kt
+
+Perl:
+File Extensions: .pl, .pm
+
+
+These are just a few examples, and many more languages are supported by VSCode. When you open a file, VSCode will attempt to detect the language based on its extension, and you can manually set the language mode by clicking on the language indicator in the bottom right corner of the window and selecting the desired language. If you're working with a less common or niche language, you might need to check the official VSCode documentation or extension marketplace for language-specific support.
+
+User
+and for devops tools like terraform
+ChatGPT
+Certainly! Visual Studio Code (VSCode) has extensions for many DevOps tools, including Terraform. Here are some common DevOps tools and their associated extensions:
+
+Terraform:
+Extension: "HashiCorp Terraform"
+File Extensions: .tf, .tfvars
+
+Docker:
+Extension: "Docker"
+File Extensions: Dockerfile
+
+
+Ansible:
+Extension: "Ansible"
+File Extensions: .yml, .yaml
+
+Puppet:
+Extension: "Puppet"
+File Extensions: .pp
+
+Chef:
+Extension: "Chef"
+File Extensions: .rb
+
+Kubernetes:
+Extension: "Kubernetes"
+File Extensions: .yaml, .yml
+
+Jenkinsfile (Jenkins Pipeline):
+Extension: "Jenkins Pipeline"
+File Extensions: Jenkinsfile
+
+Git (Version Control):
+Extension: "GitLens"
+File Extensions: .gitignore
+
+AWS (Amazon Web Services):
+Extension: "AWS Toolkit"
+File Extensions: .json (for CloudFormation templates)
+
+Azure DevOps (YAML Pipelines):
+Extension: "Azure Pipelines"
+File Extensions: .yml
+
+GitHub Actions:
+Extension: "GitHub Actions"
+File Extensions: .yml
+
+Vagrant:
+Extension: "Vagrant"
+File Extensions: Vagrantfile
+
+Serverless Framework:
+Extension: "Serverless IDE"
+File Extensions: serverless.yml
+
+Gradle:
+Extension: "Gradle Language Support"
+File Extensions: .gradle
+
+Maven:
+Extension: "Maven for Java"
+File Extensions: pom.xml
+
+NPM (Node Package Manager):
+Extension: "npm"
+File Extensions: package.json
+
+Yarn (Package Manager):
+Extension: "Yarn"
+File Extensions: yarn.lock
