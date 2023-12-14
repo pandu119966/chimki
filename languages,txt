@@ -68,9 +68,6 @@ File Extensions: .pl, .pm
 
 These are just a few examples, and many more languages are supported by VSCode. When you open a file, VSCode will attempt to detect the language based on its extension, and you can manually set the language mode by clicking on the language indicator in the bottom right corner of the window and selecting the desired language. If you're working with a less common or niche language, you might need to check the official VSCode documentation or extension marketplace for language-specific support.
 
-User
-and for devops tools like terraform
-ChatGPT
 Certainly! Visual Studio Code (VSCode) has extensions for many DevOps tools, including Terraform. Here are some common DevOps tools and their associated extensions:
 
 Terraform:
