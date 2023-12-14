@@ -1,0 +1,14 @@
+# Simple YAML File
+
+name: John Doe
+age: 30
+city: Exampleville
+is_student: false
+grades:
+  - subject: Math
+    score: 95
+  - subject: English
+    score: 88
+  - subject: Science
+    score: 92
+
